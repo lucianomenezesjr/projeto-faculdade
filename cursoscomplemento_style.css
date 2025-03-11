@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    font-family: "Inter", sans-serif;
+    margin-left: 40px;
+    display: flex;
+}
+.espaco{
+    margin-left: 40px;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+section{
+    background-color: rgb(28, 191, 255);
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
