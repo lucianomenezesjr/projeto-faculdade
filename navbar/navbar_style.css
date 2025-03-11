@@ -8,31 +8,31 @@ body{
 
 
     background-color:rgb(28, 191, 255);
-    width:1485px;
-    height:150px;
+    width:100%;
+    height:100px;
     display: flex;
     border-radius:8px;
 
 }
-h3{
+.h4_texto{
 
     text-align: center;
-    padding:30px;
+    padding-top: 40px;
     color: aliceblue;
     margin-left:150px;
-    margin-top:60px;
+    margin-top:20px;
     cursor: pointer;
     font-size:20px;
 
 }
-h1{
+.titulo{
 
     color:aliceblue ;
     margin-left:30px;
-    margin-top:55px;
+    margin-top:25px;
     font-size:28px;
 }
-img{
+.logo{
 
     border-radius:8px;
     width:110px;
@@ -40,7 +40,7 @@ img{
     margin-left:50px;
     margin-top:20px;
 }
-input{
+.pesquisa_input{
      
     height:10px;
     width:200px;
@@ -52,9 +52,10 @@ input{
     margin-top:30px;
 }
 
-h3:hover{
+.h4_texto:hover{
 
     color: rgba(127, 16, 179, 0.794);
+    
     
 
 }

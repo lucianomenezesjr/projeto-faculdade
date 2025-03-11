@@ -10,9 +10,12 @@ body{
     padding: 20px;
     border-radius: 20px;
 }
-section{
+#secao{
     background-color: rgb(28, 191, 255);
-    margin: 40px;
-    padding: 20px;
+    /*margin: 40px; */
+    padding: 20px; 
     border-radius: 20px;
+    width: 40%;
+    height: auto;
+    font-size: auto;
 }
