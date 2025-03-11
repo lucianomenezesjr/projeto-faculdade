@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+     
+    
+    height: 100vh;
+    margin: 0;
+}
+
+.contact_section {
+    height: 13vh;
+    width: 100%;
+    background-color: rgba(28, 191, 255, 0.85);
+    border-radius: 10px;
+    display: flex;
+    
+    align-items: center;
+    gap: 40px;
+    padding: 10px;
+    
+}
+
+.contact_section section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vh;
+    gap: 5px;
+    /* Espaço entre os itens */
+}
+
+.tel_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.contact_info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 2vh;
+}
+.contact_info02 {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    
+}
+.icones_redes_sociais{
+    margin-right: 1vh;
+    margin-left: 1vh;
+}
