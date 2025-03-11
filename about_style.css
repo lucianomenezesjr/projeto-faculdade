@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.sobre{
+    color: white;
+    background-color: #1CBFFF;
+    padding: 60px;
+    border-radius: 10px;
+    max-width: 900px;
+    max-height: 750px;
+    text-align: center;  
+    margin-top: 120px;  
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.lista-sobre{
+    display: flex;
+    justify-content: center;
+  
+}
