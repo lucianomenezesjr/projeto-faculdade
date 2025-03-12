@@ -32,6 +32,7 @@ body {
     margin-right: 1vh;
     width: 20px;
     height: auto;
+    transition: all 0.3s ease;
 }
 
 
