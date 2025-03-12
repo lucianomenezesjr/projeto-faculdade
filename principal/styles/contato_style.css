@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.container_contato {
+    background-color: rgb(7, 119, 163);;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 98%;
+    height: 13vh;
+    margin: 2vh;
+
+}
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-info, .social-media {
+    font-size: 18px;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+#icone_redes_sociais{
+    margin-left: 1vh;
+    margin-right: 1vh;
+    width: 20px;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+

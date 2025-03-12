@@ -1,0 +1,18 @@
+.p{
+    align-items: justify;
+}
+
+.cards{
+    width: 450px;
+    
+}
+.card-img-top {
+    height: 350px; /* Define uma altura fixa */
+    object-fit: cover; /* Ajusta a imagem para cobrir a área sem distorcer */
+}
+
+#cursos_text{
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.container_secao {
+    display: flex;
+    gap: 20px; /* Espaçamento entre as sections */
+}
+
+#secao_complemento{
+    background-color: rgb(28, 191, 255);
+    /*margin: 40px; */
+    padding: 20px; 
+    border-radius: 20px;
+    width: 40%;
+    height: auto;
+    font-size: auto;
+    flex: 1; /* Faz as sections ocuparem o mesmo espaço */
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
