@@ -1,0 +1,12 @@
+p{
+    align-items: justify;
+}
+
+.cards{
+    width: 450px;
+    
+}
+.card-img-top {
+    height: 350px; /* Define uma altura fixa */
+    object-fit: cover; /* Ajusta a imagem para cobrir a área sem distorcer */
+}
